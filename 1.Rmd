@@ -1,0 +1,42 @@
+---
+title: "Blogartikel Prokrastination Amelie, Jakob"
+output: 
+  pdf_document:
+      latex_engine: xelatex
+---
+~~Now~~ , later – In den Fängen des Studierendensyndroms
+Du kennst das bestimmt: du müsstest eigentlich diese eine Hausarbeit noch fertigschreiben, stattdessen putzt du gerade dein Bad, kochst oder gehst anderen mehr oder weniger spannenden Tätigkeiten nach. Der Fachbegriff hierfür – Prokrastination – dürfte dir wahrscheinlich schon bekannt sein, und wir können dich schonmal beruhigen: damit gehörst du zu den 80-95% der Studierenden, die ebenso wie du fleißig prokrastinieren.
+
+Dabei handelt es sich allerdings nicht nur um alltägliche „Küchenpsychologie&quot;, sondern um ein wissenschaftliches Phänomen der Psychologie und vielleicht bald eine anerkannte Krankheit.
+
+**Die Pioniere kommen aus Westfahlen**
+
+An der Universität Münster ist man da schon etwas weiter. Prokrastination wird hier ernstgenommen und man hat sogar eine eigene Prokrastinationsambulanz eingerichtet. Stefan Förster, Diplompsychologe und Dozent für Lernpsychologie an der Wilhelms-Universität, hat diese Einrichtung ins Leben gerufen.
+
+Einer seiner zentralen Punkte, mit welchem wir euch bereits etwas Hoffnung geben wollen: Prokrastination ist, laut Förster, nämlich das Gegenteil von Faulheit. Anstatt nur rumzuliegen und nichts zu tun, ist es oftmals so, dass man in der Zeit, in der man an der eigentlichen Aufgabe arbeiten sollte, einer Vielzahl an anderen Tätigkeiten nachgeht. Das liegt oft daran, dass die Aufgabe als aversiv (also sehr unangenehm) wahrgenommen wird und der Zeitpunkt des Outcomes der Handlung in relativ weiter Ferne liegt (Teil der Temporal Motivation Theory). Der Abgabetermin für deine Hausarbeit ist erst in drei Monaten, deswegen kannst du heute noch entspannt mit deinen Freunden einen draufmachen. Auch wenn der prokrastinierenden Person in diesem Moment bewusst ist, dass das Aufschieben zu einem späteren Zeitpunkt das Dreifache an Arbeit kosten wird, ist sie nicht gewillt, die erforderliche Aufgabe rechtzeitig auszuführen. Also versteht man unter Prokrastination das freiwillige Aufschieben von Tätigkeiten, obwohl man sich der negativen Konsequenzen bewusst ist.
+
+**Prokrastination im psychologischen Modell**
+
+In einem umfassenden Review Artikel hat Piers Steel Studien über den Zusammenhang von Prokrastination mit den fünf Hauptdimensionen der Persönlichkeit zusammengefasst (Steel, 2007). Letztere sind auch als die Big Five der Psychologie (siehe Tab.1) bekannt und definieren fünf Skalen, mit denen die menschliche Persönlichkeit beschrieben werden kann. Während keine Korrelation mit Neurotizismus und, wie erwartet, eine stark negative mit Gewissenhaftigkeit besteht, ist ein geringer Zusammenhang mit Extraversion (vor allem Impulsivität) gegeben.
+
+**Tab.1**
+*Die Big Five der Persönlichkeitspsychologie*
+
+![](Blogartikel%20Prokrastination%20Amelie,%20Jakob.001.png)
+
+**Wie lässt sich das Problem angehen?**
+
+Wichtig anzumerken ist, dass man mit zunehmendem Alter und steigendem Selbstbewusstsein tendenziell weniger mit Prokrastination zu kämpfen hat. Diese Information bringt euch für die Umsetzung aber sicherlich herzlich wenig.
+
+Aus diesem Grund zurück in die Prokrastinationsambulanz: Förster gibt seinen Studierenden erstaunlich simple Tipps an die Hand, die auch du ganz einfach zu Hause umsetzen kannst.
+
+1. Inhalte in Oberbegriffe strukturieren (Mindmap)
+2. Plan erstellen mit genauen Uhrzeiten für das Bearbeiten von kleinen Portionen
+3. Zunächst besser zu kleine Ziele setzen, denn meist nimmt man sich zu viel vor (zeitlich und inhaltlich)
+4. Plan für 5 Wochen konsequent durchhalten  Entwicklung einer neuen Routine gegen die alte
+
+Und wann fängst du damit an? ~~Later~~ , Now!
+
+Quellen:
+
+Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. _Psychological Bulletin, 133_(1), 65–94. [https://doi.org/10.1037/0033-2909.133.1.65](https://psycnet.apa.org/doi/10.1037/0033-2909.133.1.65)
