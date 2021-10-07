@@ -7,7 +7,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "https://sophiescharf.github.io"
-# baseurl: "/projectname"
+baseurl: "/lernenundmotivation"
 
 # Name of website
 ---
