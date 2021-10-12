@@ -6,8 +6,9 @@ subtitle: ~~Now~~ , later – In den Fängen des Studierendensyndroms
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [prokrastination, aufschieben]
+tags: [procrastination, help]
 ---
+
 
 Du kennst das bestimmt: du müsstest eigentlich diese eine Hausarbeit noch fertigschreiben, stattdessen putzt du gerade dein Bad, kochst oder gehst anderen mehr oder weniger spannenden Tätigkeiten nach. Der Fachbegriff hierfür – Prokrastination – dürfte dir wahrscheinlich schon bekannt sein, und wir können dich schonmal beruhigen: damit gehörst du zu den 80-95% der Studierenden, die ebenso wie du fleißig prokrastinieren.
 
