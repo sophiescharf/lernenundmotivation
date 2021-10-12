@@ -2,19 +2,18 @@
 ---
 layout: post
 title: Prokrastination
-subtitle: In den Fängen des Studierendensyndroms
+subtitle: ~~Now~~ , later – In den Fängen des Studierendensyndroms
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [prokrastination, aufschieben]
 ---
 
-~~Now~~ , later – In den Fängen des Studierendensyndroms
 Du kennst das bestimmt: du müsstest eigentlich diese eine Hausarbeit noch fertigschreiben, stattdessen putzt du gerade dein Bad, kochst oder gehst anderen mehr oder weniger spannenden Tätigkeiten nach. Der Fachbegriff hierfür – Prokrastination – dürfte dir wahrscheinlich schon bekannt sein, und wir können dich schonmal beruhigen: damit gehörst du zu den 80-95% der Studierenden, die ebenso wie du fleißig prokrastinieren.
 
-Dabei handelt es sich allerdings nicht nur um alltägliche „Küchenpsychologie&quot;, sondern um ein wissenschaftliches Phänomen der Psychologie und vielleicht bald eine anerkannte Krankheit.
+Dabei handelt es sich allerdings nicht nur um alltägliche „Küchenpsychologie", sondern um ein wissenschaftliches Phänomen der Psychologie und vielleicht bald eine anerkannte Krankheit.
 
-**Die Pioniere kommen aus Westfahlen**
+**Die Pioniere kommen aus Westfalen**
 
 An der Universität Münster ist man da schon etwas weiter. Prokrastination wird hier ernstgenommen und man hat sogar eine eigene Prokrastinationsambulanz eingerichtet. Stefan Förster, Diplompsychologe und Dozent für Lernpsychologie an der Wilhelms-Universität, hat diese Einrichtung ins Leben gerufen.
 
@@ -38,7 +37,7 @@ Aus diesem Grund zurück in die Prokrastinationsambulanz: Förster gibt seinen S
 1. Inhalte in Oberbegriffe strukturieren (Mindmap)
 2. Plan erstellen mit genauen Uhrzeiten für das Bearbeiten von kleinen Portionen
 3. Zunächst besser zu kleine Ziele setzen, denn meist nimmt man sich zu viel vor (zeitlich und inhaltlich)
-4. Plan für 5 Wochen konsequent durchhalten  Entwicklung einer neuen Routine gegen die alte
+4. Plan für 5 Wochen konsequent durchhalten - Entwicklung einer neuen Routine gegen die alte
 
 Und wann fängst du damit an? ~~Later~~ , Now!
 
