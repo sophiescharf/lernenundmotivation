@@ -1,5 +1,5 @@
 ---
-title: "Blogbeitrag Transfer Appropriate Processing"
+title: "Transfer Appropriate Processing"
 
 ---
 **TAP: Lernen leicht(er) gemacht**
