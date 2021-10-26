@@ -1,0 +1,55 @@
+---
+title: "Blogbeitrag Prospective Memory"
+output:
+  pdf_document: default
+  html_document: default
+---
+**Voll durchgegangen! – warum immer Ärger mit dem „inneren Terminplaner“?**
+
+So ein Mist! Schon vor Tagen war Clarissa aufgefallen, dass es höchste Zeit wurde sich für ihre Klausuren anzumelden: Zu dumm, dass ihr Gehirn es immer nur dann für nötig hielt, sie damit zu belästigen, wenn sie mitten in einer Vorlesung saß,  im Fitnessstudio auf ihrer Yoga-Matte lag oder mit Freunden durch die Quadrate zog. Jetzt war die Anmeldefrist abgelaufen und sie konnte wieder einmal um die Umsetzbarkeit ihrer Wunschbelegung bangen. 
+
+![](3Blogbeitrag%20Prospective%20Memory.001.jpeg) 
+
+Schuld hierfür trägt die Funktion ihres **Prospektiven Gedächtnisses**. Dieser Teil des Gedächtnisses speichert selbst erstellt Pläne, und sorgt dafür, dass wir diese in einem bestimmten Moment abrufen und umsetzen können: Hierzu wird die vorgenommene Tätigkeit an einen sogenannten Cue geknüpft -entweder eine Uhrzeit oder ein Event, bei dem sie ausgeführt werden soll: Bei Clarissa wären dies diejenigen Momente am Tag gewesen, an denen sie sowohl Zeit als auch Internetzugang hatte. Das Tückische: Damit der Plan rechtzeitig erfüllt werden kann, muss der Cue -sobald vorhanden- auch erkannt und das daran geknüpfte Vorhaben abgerufen werden.
+
+![](3Blogbeitrag%20Prospective%20Memory.003.jpeg)
+
+Zur Funktionsweise des prospektiven Gedächtnisses gibt es in der wissenschaftlichen Psychologie zurzeit zwei Theorien. Die **PAM (Preparatory Attentional & Memory Processes)-Theorie** geht davon aus, dass der Cue konstant überwacht werden muss, um eine Erinnerung im richtigen Moment zu erreichen (PAM; vgl. Eysenck, 2015; Smith & Bayen, 2005). Die **Multi-Process-Theory** hingegen vertritt die These, dass eine konstante Überwachung des Cues nicht zwingend erforderlich ist, wenn dieser bestimmte Eigenschaften aufweist (vgl. Einstein & McDaniel, 2005; Eysenck, 2015). Beispielsweise ist die Erinnerung bei einem sehr auffälligen Cue einfacher. Und man erinnert sich besser an eine zu erledigende Aufgabe, wenn man in der Zwischenzeit eine andere Tätigkeit durchführt, die der zu erledigenden Aufgabe in irgendeiner Weise ähnelt. Wenn man sich also auf Prüfungen vorbereitet, kann das helfen sich an den Termin zur Prüfungsanmeldung zu erinnern.
+
+![](3Blogbeitrag%20Prospective%20Memory.005.jpeg)
+
+Wie kann Clarissa ihr prospektives Gedächtnis in Zukunft konkret unterstützen?** 
+
+Der Abruf der zu erledigenden Aufgabe gelingt uns besser, wenn der zu erinnernde Cue **eventbasiert anstatt zeitbasiert** ist. Für Clarissa wäre es also eine Möglichkeit die Aufgabe der Prüfungsanmeldung mit dem Event „Aufklappen meines Laptops“ zu verbinden. Eine Zeitangabe, wie zum Beispiel: „morgen um acht Uhr melde ich mich für die Prüfungen an“ funktioniert schlechter.
+
+In der Hoffnung, diesen Effekt einmal real beobachten zu können, haben wir ein paar Personen unseres Umfelds gebeten, uns entweder zu einer bestimmten Uhrzeit oder während des Abendessens eine Nachricht zukommen lassen sollten: Dass hier der Anteil des Vergessens bei beiden Cues vergleichbar war (s. Diagramm) ist sicherlich auf die geringe Menge an befragten Personen zurückzuführen, zeigt aber, dass auch die Verwendung eines eventbasierten Cues im Einzelfall keine Garantie bietet, sich rechtzeitig zu erinnern.
+
+
+![](3Blogbeitrag%20Prospective%20Memory.008.png) 
+
+Außerdem gilt: Je **konkreter** die Aufgabe festgelegt ist, desto besser. Wenn Clarissa sich also im Vorhinein überlegt, wann sie später wo was genau erledigen soll, steigen die Chancen einer Erinnerung und damit der Durchführung.
+
+Auf diese Weise lässt sich mit ein paar einfachen Tricks die Wahrscheinlichkeit eines rechtzeitigen Abrufs erhöhen.
+
+
+*Blogbeitrag von Lea Blumenstock*
+
+*und Celina Lehnertz im Rahmen des* 
+
+*G3-Seminars, HWS 2020*
+
+
+**Quellen:**
+
+- PAM-Theorie (PAM; vgl. Eysenck, 2015; Smith & Bayen, 2005)
+- Multi-Process Theory (vgl. Einstein & McDaniel, 2005; Eysenck, 2015)
+- Präsentation im Seminar „Motivation und Gedächtnis“ zu: Prospective Memory (Scharf, 2020)
+
+
+**Bildquellen:**
+
+1) [hochzeitstag-vergessen-9c51ae81-ce07-4bce-b9ff-c8a4f11f7845.jpg (954×644) (fotocommunity.com)](https://img.fotocommunity.com/hochzeitstag-vergessen-9c51ae81-ce07-4bce-b9ff-c8a4f11f7845.jpg?width=1000)   (15.12.2020, 09:13)
+
+1) [arbeitsgedaechtnis-entlasten_620x340.jpg (620×340) (impulse.de)](https://www.impulse.de/wp-content/uploads/2019/07/arbeitsgedaechtnis-entlasten_620x340.jpg)   (15.12.2020,  09:12)
+
+1) [Wichtige_Dinge_nicht_vergessen.jpg (600×525) (wfv-freiheit.ch)](https://www.wfv-freiheit.ch/data/Wichtige_Dinge_nicht_vergessen.jpg)   (15.12.2020, 09:15)
