@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Prospective Memory
+title: "Prospective Memory"
 subtitle: Voll durchgegangen! – warum immer Ärger mit dem „inneren Terminplaner“?
 gh-repo: sophiescharf/sophiescharf.github.io
 tags: [test]
